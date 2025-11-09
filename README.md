@@ -1,8 +1,8 @@
-# material-rounded
+# material-rounded theme for home assistant
 
 [![hacs][hacs-badge]][hacs-url]
 
-material-rounded home assistant theme
+This home assistant theme has been inspired by the rounded theme and adds a sleek and lightweight material optic to your home assistant installation.
 
 <!-- Badges -->
 
