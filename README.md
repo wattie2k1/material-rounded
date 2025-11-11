@@ -4,6 +4,8 @@
 
 This home assistant theme has been inspired by the rounded theme and adds a sleek and lightweight material optic to your home assistant installation.
 
+## Installation
+
 ### HACS
 
 
